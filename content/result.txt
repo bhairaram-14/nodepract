@@ -1,0 +1,4 @@
+hello are you in result.txt file ...........
+this is first text file
+this is second text file 
+append text......by flag a
