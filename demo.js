@@ -8,11 +8,16 @@
 //console.log(__dirname,__filename)
 
 
+// practice here
+// const names=require('./name.js')
+// const sayHi=require('./utils.js')
+// sayHi(names.john)
+// sayHi(names.peter)
 
-const names=require('./name.js')
-const sayHi=require('./utils.js')
-console.log("hello man..")
+console.log(" hello man hows  you")
+console.log("========================================================================================================================")
 
-sayHi(names.john)
-sayHi(names.peter)
+
+
+
 
