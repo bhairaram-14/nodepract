@@ -60,7 +60,6 @@ async function genratehash(password) {
 async function compare(password, hash) {
     console.log(hash);
 
-
  return  await bcrytpt.compare(password, hash);
 
 }
